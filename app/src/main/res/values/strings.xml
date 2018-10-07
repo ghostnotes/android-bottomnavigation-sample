@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bottom Navigation Sample</string>
+
+    <string name="action_recents">Recents</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="action_nearby">Nearby</string>
+
+    <string name="message_recents">Recents</string>
+    <string name="message_favorites">Favorites</string>
+    <string name="message_nearby">Nearby</string>
+
+</resources>
